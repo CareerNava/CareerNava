@@ -1,6 +1,6 @@
 This is CareerNava official github account. 
 https://careernava.com
-https://career-nava.vercel.app
+<!--https://career-nava.vercel.app-->
 
 <!---
 CareerNava/CareerNava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
